@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Alpha Muffalo (Continued)</name>
-  	<packageId>Mlie.AlphaMuffalo</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/AlphaMuffalo</url>
-	<supportedVersions>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of BaconBits mod for RimWorld 1.1
+  <name>Alpha Muffalo (Continued)</name>
+  <packageId>Mlie.AlphaMuffalo</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/AlphaMuffalo</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of BaconBits mod for RimWorld 1.1
 https://ludeon.com/forums/index.php?topic=25580.msg260000#msg260000
 
 [img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
