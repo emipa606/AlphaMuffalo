@@ -30,4 +30,4 @@ Original mod by Skullywag: "Muffalo Overhaul" https://ludeon.com/forums/index.ph
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/AlphaMuffalo?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2038940371) | tags: muffalo, texture
+[![Image](https://img.shields.io/github/v/release/emipa606/AlphaMuffalo?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2038940371) | muffalo, texture
